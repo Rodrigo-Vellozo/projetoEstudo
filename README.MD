@@ -1,1 +1,2 @@
-![Sem título](https://user-images.githubusercontent.com/47451554/54389167-3d503100-467e-11e9-9043-38077dae4eac.png)
+--Projeto de Estudo (Spring Boot, OpenGraph e Twitter Cards)
+![Sem título](https://user-images.githubusercontent.com/47451554/54433438-949be300-470a-11e9-9345-261919b72736.png)
